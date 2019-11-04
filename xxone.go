@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
-func printSelf() {
+// PrintSelf ...  打印自己信息
+func PrintSelf() {
 	fmt.Println("ppone")
 }
